@@ -1,5 +1,5 @@
-# Multivariate-Correlation-Analysis-for-Deep-Learning-Model
-Multivariate Correlation Analysis for Deep Learning Model
+# Correlation Analysis for Multivariate Deep Learning Model
+Correlation Analysis for Multivariate Deep Learning Model
 
 다변량 딥러닝 모델 전용 변수 상관관계 분석 코드<br/>
 
